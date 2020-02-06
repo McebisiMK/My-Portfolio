@@ -1,0 +1,16 @@
+<aside class="education aside section">
+  <div class="section-inner">
+    <h2 class="heading">Certificates</h2>
+    <div class="content">
+      <div class="item" *ngFor="let cert of listOfCertificates">
+        <h3 class="title">
+          <i class="fas fa-certificate"></i>{{ cert.qualification }}
+        </h3>
+        <h4 class="university">
+          {{ cert.provider }}
+          <span class="year">({{ cert.start }} - {{ cert.end }})</span>
+        </h4>
+      </div>
+    </div>
+  </div>
+</aside>

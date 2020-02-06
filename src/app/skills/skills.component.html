@@ -1,0 +1,29 @@
+<aside class="skills aside section">
+  <div class="section-inner">
+    <h2 class="heading">Skills</h2>
+    <div class="content">
+      <div class="skillset">
+        <div class="item" *ngFor="let skill of listOfSkills">
+          <h3 class="level-title">
+            {{ skill.name }}
+            <span
+              class="level-label"
+              data-placement="left"
+              data-animation="true"
+              >{{ skill.proficiency }}</span
+            >
+          </h3>
+          <div class="progress">
+            <div
+              class="progress-bar progress-bar bg-success"
+              [style.width]="skill.percentage"
+              role="progressbar"
+              aria-valuemin="0"
+              aria-valuemax="100"
+            ></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</aside>

@@ -1,0 +1,19 @@
+<section class="experience section">
+  <div class="section-inner">
+    <h2 class="heading">Work Experience</h2>
+    <div class="content">
+      <hr class="divider" />
+      <div class="item" *ngFor="let expr of listOfExperience">
+        <h3 class="title">
+          {{ expr.title }} -
+          <span class="place"
+            ><a href="#">{{ expr.company }}</a></span
+          >
+          <span class="year"> ( {{ expr.start }} - {{ expr.end }} )</span>
+        </h3>
+        <p>{{ expr.summary }}</p>
+        <hr class="divider" />
+      </div>
+    </div>
+  </div>
+</section>

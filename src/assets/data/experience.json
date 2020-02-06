@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Software Developer (Tester)",
+    "company": "SA Home Loans",
+    "start": "Mar 2019",
+    "end": "Present",
+    "summary": "Working in agile (Scrum team) environment, Developing and testing enterprise applications to implement new features or update existing functions to improve business processes. Developing Web-based applications using ASP.Net MVC, AngularJS, SQL Server, GitLab, JIRA and Workflow maps. I have been exposed in unit and automation testing to verify developer's work, being involved in spring plannings and reviews."
+  },
+  {
+    "title": "IT Graduate",
+    "company": "SA Home Loans",
+    "start": "Mar 2018",
+    "end": "Feb 2019",
+    "summary": "We went for a three month professional software development training where we covered Web API development (using C#, KnockoutJS, NancyFx, JavaScript), Test Driven Development, Design Patterns, Deep dive into SOLID principles and went through good practices in the field of software development. We came back and did a pdf manipulation Web API application (Proof of Concept) using AsposePDF."
+  },
+  {
+    "title": "Software Developer Intern",
+    "company": "Coralite Training Academy",
+    "start": "Aug 2017",
+    "end": "Feb 2018",
+    "summary": "Studying for Microsoft certificates to prepare us for the exams which was the base of the programme to help us understand and up-skill for the position of software development. Developing basic web applications using ASP.Net MVC, HTML, CSS and JavaScript to prepare us for the corporate world."
+  },
+  {
+    "title": "Petrol Attendant",
+    "company": "BP Ultimate",
+    "start": "Sep 2010",
+    "end": "Dec 2011",
+    "summary": "Attending incoming vehicles to supply station services: Petrol or diesel services, checking and topping water and oil levels when needed, checking tyre pressure, cleaning windscreen, taking payments and delivering receipts and also directing vehicles to available parking lot and help them move out of parking lot when needed."
+  }
+]

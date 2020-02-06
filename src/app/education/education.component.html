@@ -1,0 +1,16 @@
+<aside class="education aside section">
+  <div class="section-inner">
+    <h2 class="heading">Education</h2>
+    <div class="content">
+      <div class="item" *ngFor="let edu of listOfEducation">
+        <h3 class="title">
+          <i class="fas fa-graduation-cap"></i>{{ edu.qualification }}
+        </h3>
+        <h4 class="university">
+          {{ edu.school }}
+          <span class="year">({{ edu.start }} - {{ edu.end }})</span>
+        </h4>
+      </div>
+    </div>
+  </div>
+</aside>

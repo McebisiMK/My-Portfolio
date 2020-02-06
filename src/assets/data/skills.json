@@ -1,0 +1,52 @@
+[
+  {
+    "name": "C#",
+    "proficiency": "Advanced",
+    "percentage": "96%"
+  },
+  {
+    "name": "Entity Framework",
+    "proficiency": "Advanced",
+    "percentage": "90%"
+  },
+  {
+    "name": "Angular",
+    "proficiency": "Intermediate",
+    "percentage": "72%"
+  },
+  {
+    "name": "JavaScript",
+    "proficiency": "Intermediate",
+    "percentage": "55%"
+  },
+  {
+    "name": "AngularJS",
+    "proficiency": "Basic",
+    "percentage": "30%"
+  },
+  {
+    "name": ".Net Core MVC",
+    "proficiency": "Intermediate",
+    "percentage": "68%"
+  },
+  {
+    "name": "MS SQL",
+    "proficiency": "Advanced",
+    "percentage": "95%"
+  },
+  {
+    "name": "Git & SVN",
+    "proficiency": "Advanced",
+    "percentage": "93%"
+  },
+  {
+    "name": "Web API",
+    "proficiency": "Intermediate",
+    "percentage": "70%"
+  },
+  {
+    "name": "TDD (NUnit & Jasmine)",
+    "proficiency": "Advanced",
+    "percentage": "90%"
+  }
+]
